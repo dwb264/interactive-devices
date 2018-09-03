@@ -6,4 +6,4 @@
 
 ## Labs
 
-1.
+1. [Blink!](https://github.com/dwb264/IDD-Fa18-Lab1)
