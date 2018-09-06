@@ -4,7 +4,7 @@
 
 1. 28Aug2018 - (no submission required)
 
-2. [06Sep2018 - Sketches](06Sep2018/06Sep2018.md)
+2. [06Sep2018 - Sketches](lab-prep/06Sep2018/06Sep2018.md)
 
 ## Labs
 
