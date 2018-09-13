@@ -6,6 +6,8 @@
 
 2. [06Sep2018 - Sketches](lab-prep/06Sep2018/06Sep2018.md)
 
+3. [13Sep2018](lab-prep/13Sep2018/13Sep2018.md)
+
 ## Labs
 
 1. [Blink!](https://github.com/dwb264/IDD-Fa18-Lab1)
