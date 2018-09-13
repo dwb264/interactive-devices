@@ -12,4 +12,4 @@
 
 1. [Blink!](https://github.com/dwb264/IDD-Fa18-Lab1)
 
-2. Digital Timer
+2. [Digital Timer](https://github.com/dwb264/IDD-Fa18-Lab2)
