@@ -2,13 +2,15 @@
 
 ## Lab Prep
 
-1. Lab 1 - 28Aug2018 - (no submission required)
+1. Lab 1 Prep - (no submission required)
 
-2. [Lab 2 - 06Sep2018](lab-prep/06Sep2018/06Sep2018.md)
+2. [Lab 2 Prep](lab-prep/06Sep2018/06Sep2018.md)
 
-3. [Lab 3 - 13Sep2018](lab-prep/13Sep2018/13Sep2018.md)
+3. [Lab 3 Prep](lab-prep/13Sep2018/13Sep2018.md)
 
-4. [Lab 4 - 20Sep2018](lab-prep/20Sep2018/readme.md)
+4. [Lab 4 Prep](lab-prep/20Sep2018/readme.md)
+
+5. [Lab 5 Prep](lab-prep/02Oct2018/lab5prep.md)
 
 ## Labs
 
