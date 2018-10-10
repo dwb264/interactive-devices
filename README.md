@@ -21,3 +21,5 @@
 3. [Data Logger](https://github.com/dwb264/IDD-Fa18-Lab3)
 
 4. [Paper Puppets](https://github.com/dwb264/IDD-Fa18-Lab4)
+
+5. [Useless Box](https://github.com/dwb264/IDD-Fa18-Lab5)
