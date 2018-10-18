@@ -14,6 +14,9 @@
 
 6. Lab 6 Prep - nothing to submit
 
+7. [Lab 7 Prep](lab-prep/18Oct2018/lab7prep.md)
+
+
 ## Labs
 
 1. [Blink!](https://github.com/dwb264/IDD-Fa18-Lab1)
