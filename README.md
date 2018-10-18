@@ -14,7 +14,7 @@
 
 6. Lab 6 Prep - nothing to submit
 
-7. [Lab 7 Prep](lab-prep/18Oct2018/lab7prep.md)
+7. [Lab 7 Prep](lab-prep/18Oct2018/lab7.md)
 
 
 ## Labs
