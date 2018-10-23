@@ -30,3 +30,5 @@
 5. [Useless Box](https://github.com/dwb264/IDD-Fa18-Lab5)
 
 6. [Chatbot](https://github.com/dwb264/IDD-Fa18-Lab6)
+
+6. [Video Doorbell](https://github.com/dwb264/IDD-Fa18-Lab7)
