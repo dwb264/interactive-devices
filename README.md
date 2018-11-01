@@ -1,5 +1,9 @@
 # Interactive Devices
 
+## Final Project
+
+[Repository](https://github.com/ctcaulfield/funlights)
+
 ## Lab Prep
 
 1. Lab 1 Prep - (no submission required)
